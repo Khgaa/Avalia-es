@@ -1,1 +1,2 @@
-# Avalia-es
+# Avaliações
+Repositório para fins avaliativos
